@@ -1,6 +1,6 @@
 c = input("Enter temperature: ")
-c = int(c)
-f = int(c*9/5)+32
+c = float(c)
+f = float(c*9/5)+32.0
 
 
 
