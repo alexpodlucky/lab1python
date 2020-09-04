@@ -10,6 +10,6 @@ if unit == "F" or unit == "f" :
 elif unit == "C" or unit == "c" :
   print(f"{c}° in Celsius is equivalent to {f}° Farenheit." );
 else:
-  print(f"Invalid unit ({unit}).")
+  print(f"  Invalid unit ({unit}).")
 
 
